@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Potential17/Zomato-Clone",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "Potential17/Potential17",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "Potential17/Teams-clone",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -31,8 +37,8 @@
   },
   {
     "full_name": "maintainers/invite-automation",
-    "stargazers_count": 182,
-    "open_issues_count": 160,
+    "stargazers_count": 185,
+    "open_issues_count": 163,
     "forks_count": 2
   },
   {
@@ -63,6 +69,6 @@
     "full_name": "Potential17/Hacktoberfest-2020",
     "stargazers_count": 41,
     "open_issues_count": 23,
-    "forks_count": 131
+    "forks_count": 130
   }
 ]
